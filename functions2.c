@@ -3,7 +3,7 @@
 /****************** PRINT POINTERS ******************/
 /**
  * print_pointer - Prints the value of a pointer variable
- * @types: List a of arguments
+ * @types: List a of arguments to be printed
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: get width
